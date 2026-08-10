@@ -1,0 +1,12 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Data and regenerable artifacts
+data/
+artifacts/checkpoints/
+artifacts/*_quick/
+
+# Jupyter
+.ipynb_checkpoints/
