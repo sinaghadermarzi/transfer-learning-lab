@@ -1,0 +1,13 @@
+condition,seed,acc
+scratch,0,0.7487
+fine-tune mnist,0,0.7367
+fine-tune randlabel,0,0.6679
+probe randlabel,0,0.24330000579357147
+scratch,1,0.7593
+fine-tune mnist,1,0.7389
+fine-tune randlabel,1,0.6367
+probe randlabel,1,0.32190001010894775
+scratch,2,0.7593
+fine-tune mnist,2,0.7305
+fine-tune randlabel,2,0.6593
+probe randlabel,2,0.2614000141620636
