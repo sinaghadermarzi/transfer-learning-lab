@@ -1,0 +1,13 @@
+target,condition,seed,acc
+mnist,rotpred probe (k=4),0,0.911899983882904
+mnist,scratch,0,0.9293
+mnist,rotpred probe (k=4),1,0.916700005531311
+mnist,scratch,1,0.9357
+mnist,rotpred probe (k=4),2,0.9185000061988831
+mnist,scratch,2,0.9418
+fashion,rotpred probe (k=4),0,0.7560999989509583
+fashion,scratch,0,0.7212
+fashion,rotpred probe (k=4),1,0.6402000188827515
+fashion,scratch,1,0.7637
+fashion,rotpred probe (k=4),2,0.6474999785423279
+fashion,scratch,2,0.7549
